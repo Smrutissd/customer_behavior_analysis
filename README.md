@@ -79,7 +79,7 @@ Results & Insights
 Requirements - Python 3.x, PostgreSQL installed, Power BI Desktop
 Steps:
 ➡Clone this repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Smrutissd/customer_behavior_analysis.git
 ➡Install Python libraries
 pip install -r requirements.txt
 ➡Run Python script/notebook for cleaning and EDA
